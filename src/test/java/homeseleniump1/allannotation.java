@@ -55,4 +55,9 @@ public class allannotation {
 	  System.out.println("9");
   }
 
+  @Test
+  public void afterSuite1() {
+	  System.out.println("9");
+  }
+
 }
