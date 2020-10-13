@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite parallel="false" name="Suite">
+  <test name="Test">
+   
+   <groups>
+   <run>
+     <include name = "abc"/>
+    <include name = "bc1"/>
+   
+   </run>
+   </groups>
+   
+   
+    <classes>
+  
+      <class name="homeseleniump1.annotgroupsandpriority"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
