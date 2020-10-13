@@ -57,9 +57,10 @@ public class allannotation {
 
   @Test
   public void afterSuite1() {
-	  System.out.println("9");
-	  System.out.println("working oon developer branch");
-
+	  System.out.println("ehello committed by gitx");
   }
-
+  @Test
+  public void afterSuite3() {
+	  System.out.println("ehello committed by gitxdevelop branch");
+}
 }
