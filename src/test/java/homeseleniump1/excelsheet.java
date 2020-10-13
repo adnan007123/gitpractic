@@ -36,7 +36,7 @@ public void readwrite() throws IOException{
 		for (int i =0;i<=sheet.getLastRowNum();i++)
 		{
 			cell=sheet.getRow(i).getCell(0);
-			cell.setCellType();
+			//cell.setCellType();
 		}
 		
 		

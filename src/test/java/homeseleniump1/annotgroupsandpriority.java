@@ -36,6 +36,8 @@ public class annotgroupsandpriority {
   @AfterClass
   public void afterClass() {
 	  System.out.println("aftyerclass");
+	  System.out.println("aftyerclass1");
+	  System.out.println("aftyerclass2");
   }
 
 
